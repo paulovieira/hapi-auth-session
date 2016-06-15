@@ -24,8 +24,7 @@
   },
   "homepage": "https://github.com/paulovieira/hapi-auth-session-memory#readme",
   "dependencies": {
-    "hoek": "2.x.x",
-    "node-uuid": "1.4.x"
+    "hoek": "^4.0.1",
+    "node-uuid": "^1.4.7"
   }
 }
-
