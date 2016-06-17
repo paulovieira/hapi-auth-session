@@ -1,2 +1,1 @@
-## hapi-auth-session-memory
-
+## hapi-auth-session
